@@ -18,6 +18,7 @@
   "application": "11.0.0.0",
   "features": "TranslationFile",
   "target": "Internal",
+  "showMyCode": true,
   "idRange": {
     "from": 123456700,
     "to": 123456799
